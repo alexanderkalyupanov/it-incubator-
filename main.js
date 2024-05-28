@@ -47,3 +47,9 @@ let result = "";
 // Задание №35
 
 console.log(result)
+
+// Задание №36
+
+for (const row of rows) {
+
+}
