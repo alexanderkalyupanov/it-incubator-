@@ -126,3 +126,5 @@ function padRow(name) {
 // Задание №49
 
 const call = padRow("Alexander");
+
+// Задание №50
