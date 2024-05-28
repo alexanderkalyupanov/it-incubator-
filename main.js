@@ -43,3 +43,7 @@ for (let i = 0; i < count; i = i + 1) {
 // Задание №34
 
 let result = "";
+
+// Задание №35
+
+console.log(result)
