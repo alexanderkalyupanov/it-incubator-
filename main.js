@@ -59,3 +59,9 @@ for (const row of rows) {
 for (const row of rows) {
     result = result + row
   }
+
+// Задание №38
+
+for (const row of rows) {
+    result = result + "\n" + row;
+  }
