@@ -122,3 +122,7 @@ function padRow(name) {
 function padRow(name) {
     return name;
   }
+
+// Задание №49
+
+const call = padRow("Alexander");
