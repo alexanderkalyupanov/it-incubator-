@@ -15,3 +15,9 @@ for ("iterator"; "condition"; "iteration") {
 for (let i = 0; "condition"; "iteration") {
 
 }
+
+// Задание №30
+
+for (let i = 0; i < count; "iteration") {
+
+}
