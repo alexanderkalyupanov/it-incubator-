@@ -9,3 +9,9 @@ const rows = [];
 for ("iterator"; "condition"; "iteration") {
 
 }
+
+// Задание №29
+
+for (let i = 0; "condition"; "iteration") {
+
+}
