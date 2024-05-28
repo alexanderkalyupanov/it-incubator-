@@ -85,3 +85,7 @@ for (let i = 0; i < count; i = i + 1) {
 for (let i = 0; i < count; i = i + 1) {
     rows.push(character.repeat(i + 1))
   }
+
+// Задание №42
+
+function padRow() {}
