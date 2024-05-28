@@ -110,3 +110,9 @@ console.log(call);
 function padRow() {
     return "Hello!"
   }
+
+// Задание №47
+
+function padRow(name) {
+    return "Hello!";
+  }
