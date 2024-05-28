@@ -100,3 +100,7 @@ padRow();
 // Задание №44
 
 const call = padRow();
+
+// Задание №45
+
+console.log(call);
