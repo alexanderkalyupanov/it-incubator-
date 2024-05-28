@@ -96,3 +96,7 @@ function padRow() {
 
 }
 padRow();
+
+// Задание №44
+
+const call = padRow();
