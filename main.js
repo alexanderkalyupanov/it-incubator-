@@ -104,3 +104,9 @@ const call = padRow();
 // Задание №45
 
 console.log(call);
+
+// Задание №46
+
+function padRow() {
+    return "Hello!"
+  }
