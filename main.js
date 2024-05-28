@@ -79,3 +79,9 @@ for (let i = 0; i < count; i = i + 1) {
     rows.push(character);
     character.repeat(i);
   }
+
+// Задание №41
+
+for (let i = 0; i < count; i = i + 1) {
+    rows.push(character.repeat(i + 1))
+  }
