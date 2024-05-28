@@ -53,3 +53,9 @@ console.log(result)
 for (const row of rows) {
 
 }
+
+// Задание №37
+
+for (const row of rows) {
+    result = result + row
+  }
