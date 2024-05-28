@@ -89,3 +89,10 @@ for (let i = 0; i < count; i = i + 1) {
 // Задание №42
 
 function padRow() {}
+
+// Задание №43
+
+function padRow() {
+
+}
+padRow();
