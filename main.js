@@ -116,3 +116,9 @@ function padRow() {
 function padRow(name) {
     return "Hello!";
   }
+
+// Задание №48
+
+function padRow(name) {
+    return name;
+  }
